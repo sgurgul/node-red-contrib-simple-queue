@@ -1,4 +1,4 @@
-# node-red-contrib-simple-queue
+# node-red-contrib-simple-queue-ordered
 
 Easy node-red queue to limit the messages processed at the same time.
 
