@@ -22,7 +22,7 @@
   },
   "node-red": {
     "nodes": {
-      "simple-queue": "simple-queue.js"
+      "simple-queue": "simple-queue-ordered.js"
     }
   },
   "dependencies": {
