@@ -79,5 +79,5 @@ module.exports = function(RED) {
         });
     }
 
-    RED.nodes.registerType("simple-queue", SimpleQueueNode);
+    RED.nodes.registerType("simple-queue-ordered", SimpleQueueNode);
 }

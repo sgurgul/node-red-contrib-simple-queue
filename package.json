@@ -1,11 +1,11 @@
 {
-  "name": "node-red-contrib-simple-queue",
+  "name": "node-red-contrib-simple-queue-ordered",
   "description": "Easy node-red queue to limit the messages processed at the same time.",
   "author": {
-    "name": "Jonas Bernemann",
-    "email": "jonas.bernemann@consense-consulting.de"
+    "name": "Sebastian Gurgul",
+    "email": "sebastian.gurgul@gmail.com"
   },
-  "version": "1.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "keywords": [
     "node-red",
@@ -13,12 +13,12 @@
     "limit"
   ],
   "bugs": {
-    "url": "https://github.com/NoFr1ends/node-red-contrib-simple-queue/issues"
+    "url": "https://github.com/sgurgul/node-red-contrib-simple-queue-ordered/issues"
   },
-  "homepage": "https://github.com/NoFr1ends/node-red-contrib-simple-queue",
+  "homepage": "https://github.com/sgurgul/node-red-contrib-simple-queue-ordered",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NoFr1ends/node-red-contrib-simple-queue.git"
+    "url": "https://github.com/sgurgul/node-red-contrib-simple-queue-ordered.git"
   },
   "node-red": {
     "nodes": {
