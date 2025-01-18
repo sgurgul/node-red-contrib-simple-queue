@@ -2,8 +2,9 @@
 
 [Node-RED](https://nodered.org) node to queue and limit messages processed at the same time.
 
-NOTICE: The original Queue was implemented by Jonas Bernemann [https://github.com/consense-consulting/node-red-contrib-simple-queue]
-Jonas's original implementation did not keep the FIFO order of incoming/outgoing messages. 
+NOTICE: The original Queue was implemented by [Jonas Bernemann](https://github.com/consense-consulting/node-red-contrib-simple-queue).
+
+Jonas's original implementation did not keep the FIFO order of incoming/outgoing messages - fixing this was a motivation to create this component. 
 
 ## Example
 ```json
